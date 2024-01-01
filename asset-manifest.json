@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ahsan90757.github.io/static/css/main.aa1c8ca8.css",
+    "main.js": "/Ahsan90757.github.io/static/js/main.37cb21b8.js",
+    "index.html": "/Ahsan90757.github.io/index.html",
+    "main.aa1c8ca8.css.map": "/Ahsan90757.github.io/static/css/main.aa1c8ca8.css.map",
+    "main.37cb21b8.js.map": "/Ahsan90757.github.io/static/js/main.37cb21b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa1c8ca8.css",
+    "static/js/main.37cb21b8.js"
+  ]
+}
